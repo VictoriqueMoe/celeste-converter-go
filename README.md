@@ -55,7 +55,7 @@ Some performance guidelines:
 
 ```sh
 # Clone the repository
-git clone https://github.com/borogk/celeste-converter-go.git
+git clone https://github.com/VictoriqueMoe/celeste-converter-go.git
 cd celeste-converter-go
 
 # Build the project
