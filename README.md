@@ -61,7 +61,3 @@ cd celeste-converter-go
 # Build the project
 go build -o celeste-converter ./cmd/celeste-converter
 ```
-
-## License
-
-MIT License - See LICENSE file for details.
